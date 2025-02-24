@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("webuni")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+533666c8010954c731d814162b872f16982269f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+414291d5affdd8ec9ed680eb19106cc87b1bb60e")]
 [assembly: System.Reflection.AssemblyProductAttribute("webuni")]
 [assembly: System.Reflection.AssemblyTitleAttribute("webuni")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
