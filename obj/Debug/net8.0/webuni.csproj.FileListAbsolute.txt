@@ -1,0 +1,15 @@
+C:\Users\lnagy5\csharp\webuni\obj\Debug\net8.0\webuni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lnagy5\csharp\webuni\obj\Debug\net8.0\webuni.AssemblyInfoInputs.cache
+C:\Users\lnagy5\csharp\webuni\obj\Debug\net8.0\webuni.AssemblyInfo.cs
+C:\Users\lnagy5\csharp\webuni\obj\Debug\net8.0\webuni.csproj.CoreCompileInputs.cache
+C:\Users\lnagy5\csharp\webuni\obj\Debug\net8.0\webuni.sourcelink.json
+C:\Users\lnagy5\csharp\webuni\bin\Debug\net8.0\webuni.exe
+C:\Users\lnagy5\csharp\webuni\bin\Debug\net8.0\webuni.deps.json
+C:\Users\lnagy5\csharp\webuni\bin\Debug\net8.0\webuni.runtimeconfig.json
+C:\Users\lnagy5\csharp\webuni\bin\Debug\net8.0\webuni.dll
+C:\Users\lnagy5\csharp\webuni\bin\Debug\net8.0\webuni.pdb
+C:\Users\lnagy5\csharp\webuni\obj\Debug\net8.0\webuni.dll
+C:\Users\lnagy5\csharp\webuni\obj\Debug\net8.0\refint\webuni.dll
+C:\Users\lnagy5\csharp\webuni\obj\Debug\net8.0\webuni.pdb
+C:\Users\lnagy5\csharp\webuni\obj\Debug\net8.0\webuni.genruntimeconfig.cache
+C:\Users\lnagy5\csharp\webuni\obj\Debug\net8.0\ref\webuni.dll
